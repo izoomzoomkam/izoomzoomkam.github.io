@@ -1,0 +1,35 @@
+.row{   
+font-family: 'Indie Flower', cursive;
+    background-color:black;
+    color:plum;
+    font-size:20px;
+}
+.headshot {
+border-image:10%;    
+
+}
+.contact {
+    display:flex;
+    justify-content:space-between;
+}
+.counter {
+    display:flex;
+    justify-content:space-between;
+}
+.mid{
+    background-color:white;
+    color:plum;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+     display:flex;
+ justify-content:space-between;
+    margin-bottom:5px;
+}
+.footer {
+ display:flex;
+ justify-content:space-between;
+}
+.aboutme{
+    border:1px solid black;   
+}
